@@ -1,4 +1,4 @@
-package shavrov.hw1;
+package com.pb.shavrov.hw1;
 
 public class HelloWorld {
     public static void main(String[] args) {
